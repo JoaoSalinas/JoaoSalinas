@@ -1,3 +1,10 @@
+## Olá, eu sou o João Salinas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/JoaoSalinas)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/jo%C3%A3o-pedro-salinas-machado/)
+
+
 <p align="center">
   <a href="#">
     <img align="center" width="390" height="300" src="https://media.giphy.com/media/8FfwJr9MnLw7OZBCrw/source.gif" />	
@@ -7,28 +14,6 @@
     <img align="center" width="390" height="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/source.gif" />	
   </a>  
 </p>
-
-<p align="center">
-  <a href="https://github.com/JoaoSalinas/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSalinas&layout=compact&theme=radical"
-    />
-  </a>
-  <a href="https://github.com/JoaoSalinas/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=JoaoSalinas&count_private=true&show_icons=true&custom_title=Github%20Status&theme=radical"
-    />
-  </a>
-</p>
-
-## Olá, eu sou o João Salinas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/JoaoSalinas)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/jo%C3%A3o-pedro-salinas-machado/)
 
 
 ### Em poucas palavras
@@ -174,3 +159,20 @@
 
 - 💼 Seja uma conexão e acompanhe as minhas atualizações no <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-salinas-machado/">LinkedIn</a>.
 - :envelope: Mande um email para <a href="mailto:joao.salinas@outlook.com">joao.salinas@outlook.com</a>
+
+<br>
+<p align="center">
+  <a href="https://github.com/JoaoSalinas/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSalinas&layout=compact&theme=radical"
+    />
+  </a>
+  <a href="https://github.com/JoaoSalinas/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=JoaoSalinas&count_private=true&show_icons=true&custom_title=Github%20Status&theme=radical"
+    />
+  </a>
+</p>
