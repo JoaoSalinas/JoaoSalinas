@@ -170,17 +170,6 @@
 <img  width="30" height="30" src="./futuro/less.svg"/>
 </p>
 
-### Algumas coisas OffTopic que eu me viro:
-
-<!-- GIMP -->
-<img  width="30" height="30" src="./offTopics/gimp.svg"/>
-
-<!-- inkscape -->
-<img  width="30" height="30" src="./offTopics/inkscape.svg"/>
-
-<!-- illustrator -->
-<img  width="30" height="30" src="./offTopics/illustrator.svg"/>
-
 ### Onde você pode me encontrar 🌎:
 
 - 💼 Seja uma conexão e acompanhe as minhas atualizações no <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-salinas-machado/">LinkedIn</a>.
