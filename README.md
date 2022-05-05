@@ -78,7 +78,6 @@
 ### Tecnologias e ferramentas que sei usar bem, mas não tenho mais me aventurado tanto:
 
 <p>
-<!-- VUE -->
 <img  width="30" height="30" src="./antigas/vue.svg"/>
 
 <!-- PHP -->
