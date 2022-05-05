@@ -92,6 +92,10 @@
 
 <!-- JAVA  -->
 <img  width="30" height="30" src="./antigas/java.svg"/>
+  
+<!-- Angular -->
+<img  width="30" height="30" src="./futuro/angularjs.svg"/>
+  
 </p><br>
 
 
@@ -148,11 +152,6 @@
 <!-- ELECTRON -->
 <img  width="30" height="30" src="./futuro/electron.svg"/>
 
-<!-- Angular -->
-<img  width="30" height="30" src="./futuro/angularjs.svg"/>
-
-<!-- LESS -->
-<img  width="30" height="30" src="./futuro/less.svg"/>
 </p>
 
 ### Onde você pode me encontrar 🌎:
