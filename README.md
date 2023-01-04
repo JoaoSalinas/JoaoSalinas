@@ -27,62 +27,61 @@
 <br>
 <p align="left">
 
-<!-- HTML -->
-<img  width="30" height="30" src="./atuais/html5.svg"/>
+  <!-- HTML -->
+  <img  width="30" height="30" src="./atuais/html5.svg"/>
 
-<!-- CSS -->
-<img  width="30" height="30" src="./atuais/css3.svg"/>
+  <!-- CSS -->
+  <img  width="30" height="30" src="./atuais/css3.svg"/>
 
-<!-- JS -->
-<img  width="30" height="30" src="./atuais/js.svg"/>
+  <!-- JS -->
+  <img  width="30" height="30" src="./atuais/js.svg"/>
 
-<!-- BABEL -->
-<img  width="30" height="30" src="./atuais/babel.svg"/>
+  <!-- BABEL -->
+  <img  width="30" height="30" src="./atuais/babel.svg"/>
 
-<!-- WEBPACK -->
-<img  width="30" height="30" src="./atuais/webpack.svg"/>
+  <!-- WEBPACK -->
+  <img  width="30" height="30" src="./atuais/webpack.svg"/>
 
-<!-- TS -->
-<img  width="30" height="30" src="./atuais/typescript.svg"/>
+  <!-- TS -->
+  <img  width="30" height="30" src="./atuais/typescript.svg"/>
 
-<!-- NODEJS -->
-<img  width="30" height="30" src="./atuais/nodejs.svg"/>
+  <!-- NODEJS -->
+  <img  width="30" height="30" src="./atuais/nodejs.svg"/>
 
-<!-- EXPRESS -->
-<img  width="30" height="30" src="./atuais/express.svg"/>
+  <!-- EXPRESS -->
+  <img  width="30" height="30" src="./atuais/express.svg"/>
 
-<!-- STRAPI -->
-<img  width="30" height="30" src="./atuais/strapi.svg"/>
-  
-<!-- REACT -->
-<img  width="30" height="30" src="./atuais/react.svg"/>
- 
-<!-- NEXTJS -->
-<img  width="30" height="30" src="./atuais/nextjs.svg"/>
- 
-<!-- JEST -->
-<img  width="30" height="30" src="./atuais/jest.svg"/>
-  
-<!-- STYLED COMPONENTS -->
-<span width="30" height="30">💅</span>
-  
-<!-- STORYBOOK -->
-<img  width="30" height="30" src="./atuais/storybook.svg"/>
-  
-<!-- ANDROID -->
-<img  width="30" height="30" src="./atuais/android.svg"/>
+  <!-- STRAPI -->
+  <img  width="30" height="30" src="./atuais/strapi.svg"/>
 
-<!-- IOS -->
-<img  width="30" height="30" src="./atuais/ios.svg"/>
+  <!-- REACT -->
+  <img  width="30" height="30" src="./atuais/react.svg"/>
 
-<!-- PHP -->
-<img  width="30" height="30" src="./antigas/php.svg"/>
+  <!-- NEXTJS -->
+  <img  width="30" height="30" src="./atuais/nextjs.svg"/>
 
-<!-- WORDPRESS -->
-<img  width="30" height="30" src="./antigas/wordpress.svg"/>
-  
+  <!-- JEST -->
+  <img  width="30" height="30" src="./atuais/jest.svg"/>
 
-</p><br>
+  <!-- STYLED COMPONENTS -->
+  <i width="30" height="30">💅</i>
+
+  <!-- STORYBOOK -->
+  <img  width="30" height="30" src="./atuais/storybook.svg"/>
+
+  <!-- ANDROID -->
+  <img  width="30" height="30" src="./atuais/android.svg"/>
+
+  <!-- IOS -->
+  <img  width="30" height="30" src="./atuais/ios.svg"/>
+
+  <!-- PHP -->
+  <img  width="30" height="30" src="./antigas/php.svg"/>
+
+  <!-- WORDPRESS -->
+  <img  width="30" height="30" src="./antigas/wordpress.svg"/>
+</p>
+<br>
 
 ### Tecnologias e ferramentas que sei usar bem, mas não tenho mais me aventurado tanto:
 
@@ -131,6 +130,9 @@
 
 <!-- YARN -->
 <img  width="30" height="30" src="./ambienteCIeBD/yarn.svg"/>
+
+<!-- GRAPHQL -->
+<img  width="30" height="30" src="./atuais/graphql.svg"/>
 
 <!-- DOCKER -->
 <img  width="30" height="30" src="./ambienteCIeBD/docker.svg"/>
