@@ -25,8 +25,7 @@
 ### Tecnologias e ferramentas que mais tenho usado atualmente:
 
 <br>
-<p align="left">
-
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between;">
   <!-- HTML -->
   <img  width="30" height="30" src="./atuais/html5.svg"/>
 
@@ -80,17 +79,16 @@
 
   <!-- WORDPRESS -->
   <img  width="30" height="30" src="./antigas/wordpress.svg"/>
-</p>
+</div>
 <br>
 
 ### Tecnologias e ferramentas que sei usar bem, mas não tenho mais me aventurado tanto:
 
-<p>
+<div>
 <img  width="30" height="30" src="./antigas/vue.svg"/>
   
 <!-- CODE IGNITER -->
 <img  width="30" height="30" src="./antigas/codeigniter.svg"/>
-
 
 <!-- JAVA  -->
 <img  width="30" height="30" src="./antigas/java.svg"/>
@@ -98,12 +96,13 @@
 <!-- Angular -->
 <img  width="30" height="30" src="./futuro/angularjs.svg"/>
   
-</p><br>
+</div>
+<br>
 
 
 ### Ambiente , CI e banco de dados:
 
-<p>
+<div>
 <!-- LINUX -->
 <img  width="30" height="30" src="./ambienteCIeBD/linux.svg"/>
 
@@ -145,19 +144,19 @@
 
 <!-- MONGODB -->
 <img  width="30" height="30" src="./ambienteCIeBD/mongodb.svg"/>
-</p>
+</div>
 
 
 ### Algumas coisas que pretendo estudar NA SEQUENCIA:
 
-<p>
+<div>
 <!-- VUE -->
 <img  width="30" height="30" src="./futuro/vuejs.svg"/>
 
 <!-- ELECTRON -->
 <img  width="30" height="30" src="./futuro/electron.svg"/>
 
-</p>
+</div>
 
 ### Onde você pode me encontrar 🌎:
 
@@ -165,7 +164,7 @@
 - :envelope: Mande um email para <a href="mailto:joao.salinas@outlook.com">joao.salinas@outlook.com</a>
 
 <br>
-<p align="center">
+<div>
   <a href="https://github.com/JoaoSalinas/github-readme-stats">
     <img
       align="center"
@@ -179,4 +178,4 @@
       src="https://github-readme-stats.vercel.app/api?username=JoaoSalinas&count_private=true&show_icons=true&custom_title=Github%20Status&theme=radical"
     />
   </a>
-</p>
+</div>
