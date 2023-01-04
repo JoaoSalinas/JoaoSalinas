@@ -18,9 +18,8 @@
 
 ### Em poucas palavras
 
-- 👨‍💻 Atualmente trabalho como superintendente de inovação e desenvolvimento, atuando principalmente como Tech Lead da equipe de desenvolvimento de sistemas da prefeitura do Rio Grande-RS.
+- 👨‍💻 Atualmente trabalho como lider de projetos na Fundação Getúlio Vargas (FGV) e sou sócio-proprietário da Spixs Tecnologia.
 - :mortar_board: Sou formando no curso de Análise e desenvolvimento de sistemas no IFRS - Campus Rio grande . 
-- :rocket: Aprendendo muito sobre NodeJS, React e React Native com o pessoal da Rocketseat onde estou fazendo o bootcamp  GoStack.
 - 💙 apaixonado por: Desenvolvimento, jogos, cursos online, pessoas e 'trocar figurinhas'.
 
 ### Tecnologias e ferramentas que mais tenho usado atualmente:
@@ -28,17 +27,11 @@
 <br>
 <p align="left">
 
-<!-- VS CODE -->
-<img  width="30" height="30" src="./atuais/vscode.svg"/>
-
 <!-- HTML -->
 <img  width="30" height="30" src="./atuais/html5.svg"/>
 
 <!-- CSS -->
 <img  width="30" height="30" src="./atuais/css3.svg"/>
-
-<!-- BOOTSTRAP -->
-<img  width="30" height="30" src="./atuais/bootstrap.svg"/>
 
 <!-- JS -->
 <img  width="30" height="30" src="./atuais/js.svg"/>
@@ -58,20 +51,38 @@
 <!-- EXPRESS -->
 <img  width="30" height="30" src="./atuais/express.svg"/>
 
+<!-- STRAPI -->
+<img  width="30" height="30" src="./atuais/strapi.svg"/>
+  
 <!-- REACT -->
 <img  width="30" height="30" src="./atuais/react.svg"/>
-
+ 
+<!-- NEXTJS -->
+<img  width="30" height="30" src="./atuais/nextjs.svg"/>
+ 
+<!-- JEST -->
+<img  width="30" height="30" src="./atuais/jest.svg"/>
+  
+<!-- STYLED COMPONENTS -->
+<span width="30" height="30">💅</span>
+  
+<!-- STORYBOOK -->
+<img  width="30" height="30" src="./atuais/storybook.svg"/>
+  
+<!-- STYLED COMPONENTS -->
+<span width="30" height="30">💅</span>
 <!-- ANDROID -->
 <img  width="30" height="30" src="./atuais/android.svg"/>
 
 <!-- IOS -->
 <img  width="30" height="30" src="./atuais/ios.svg"/>
 
-<!-- JEST -->
-<img  width="30" height="30" src="./atuais/jest.svg"/>
-<!-- STYLED COMPONENTS -->
-<span width="30" height="30">💅</span>
+<!-- PHP -->
+<img  width="30" height="30" src="./antigas/php.svg"/>
 
+<!-- WORDPRESS -->
+<img  width="30" height="30" src="./antigas/wordpress.svg"/>
+  
 
 </p><br>
 
@@ -79,15 +90,10 @@
 
 <p>
 <img  width="30" height="30" src="./antigas/vue.svg"/>
-
-<!-- PHP -->
-<img  width="30" height="30" src="./antigas/php.svg"/>
-
+  
 <!-- CODE IGNITER -->
 <img  width="30" height="30" src="./antigas/codeigniter.svg"/>
 
-<!-- WORDPRESS -->
-<img  width="30" height="30" src="./antigas/wordpress.svg"/>
 
 <!-- JAVA  -->
 <img  width="30" height="30" src="./antigas/java.svg"/>
@@ -142,7 +148,7 @@
 </p>
 
 
-### Algumas coisas que pretendo estudar depois de ter uma base muito sólida na stack de React e React-Native:
+### Algumas coisas que pretendo estudar NA SEQUENCIA:
 
 <p>
 <!-- VUE -->
