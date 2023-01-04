@@ -62,9 +62,6 @@
   <!-- JEST -->
   <img  width="30" height="30" src="./atuais/jest.svg"/>
 
-  <!-- STYLED COMPONENTS -->
-  <i width="30" height="30">💅</i>
-
   <!-- STORYBOOK -->
   <img  width="30" height="30" src="./atuais/storybook.svg"/>
 
@@ -79,6 +76,9 @@
 
   <!-- WORDPRESS -->
   <img  width="30" height="30" src="./antigas/wordpress.svg"/>
+  
+  <!-- STYLED COMPONENTS -->
+  <i width="30" height="30">💅</i>
 </div>
 <br>
 
