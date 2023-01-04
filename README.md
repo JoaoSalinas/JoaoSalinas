@@ -69,8 +69,6 @@
 <!-- STORYBOOK -->
 <img  width="30" height="30" src="./atuais/storybook.svg"/>
   
-<!-- STYLED COMPONENTS -->
-<span width="30" height="30">💅</span>
 <!-- ANDROID -->
 <img  width="30" height="30" src="./atuais/android.svg"/>
 
