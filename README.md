@@ -78,7 +78,7 @@
   <img  width="30" height="30" src="./antigas/wordpress.svg"/>
   
   <!-- STYLED COMPONENTS -->
-  <i width="30" height="30">💅</i>
+  <img width="30" height="30" src="./atuais/styled-components.svg" />
 </div>
 <br>
 
