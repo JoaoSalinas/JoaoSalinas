@@ -19,6 +19,7 @@
 ### Em poucas palavras
 
 - 👨‍💻 Atualmente trabalho como lider de projetos na Fundação Getúlio Vargas (FGV) e sou sócio-proprietário da Spixs Tecnologia.
+- Outros momentos da minha carreira que valem uma menção honrosa é a superintendencia de inovação e técnologia no município de Rio Grande e Tech Lead na Hub do Investidor. 
 - :mortar_board: Sou formando no curso de Análise e desenvolvimento de sistemas no IFRS - Campus Rio grande . 
 - 💙 apaixonado por: Desenvolvimento, jogos, cursos online, pessoas e 'trocar figurinhas'.
 
